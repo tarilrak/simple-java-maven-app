@@ -12,7 +12,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
         System.out.println("githubassignment24");
-        System.out.println("githubassignment25");
+        
     }
 
     public String getMessage() {
